@@ -1,0 +1,41 @@
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+body {
+	margin: 3em;
+	min-width: 320px;
+	min-height: 100vh;
+}
+
+h1 {
+	font-size: 3.2em;
+	line-height: 1.1;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+.bold {
+	font-weight: 600;
+}
+
+input {
+	margin-left: 1em;
+}
+
+img {
+	width: 45%;
+	min-width: 15em;
+	border: 1px solid grey;
+}
+
+button {
+	border: 1px solid grey;
+	font-family: inherit;
+	background-color: #ffffff;
+	cursor: pointer;
+}
